@@ -1,6 +1,8 @@
 # 05. Building Block View
 
-> **arc42 guidance:** Static decomposition of the system into building blocks (modules, components, subsystems, classes, interfaces, packages, libraries, frameworks, layers, partitions, tiers, functions, macros, operations, data structures, ...) and their dependencies.
+> Static decomposition of the system into building blocks (modules, components, subsystems, classes, interfaces, packages, libraries, frameworks, layers, partitions, tiers, functions, macros, operations, data structures, ...) and their dependencies.
+
+> Draw the C4 container diagram here. Add description.
 
 ---
 
@@ -15,8 +17,8 @@
 ### Contained Building Blocks
 
 | Building Block | Responsibility |
-|----------------|---------------|
-|                |               |
+| -------------- | -------------- |
+|                |                |
 
 ### Important Interfaces
 
@@ -31,4 +33,3 @@
 ### `<Building Block 1>`
 
 > Describe the internal structure here.
-

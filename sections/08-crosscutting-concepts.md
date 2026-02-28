@@ -1,6 +1,6 @@
 # 08. Crosscutting Concepts
 
-> **arc42 guidance:** Overall, principal regulations and solution ideas relevant in multiple parts of the system. Concepts are often related to multiple building blocks. They include many different topics.
+> Overall, principal regulations and solution ideas relevant in multiple parts of the system. Concepts are often related to multiple building blocks. They include many different topics.
 
 ---
 
@@ -27,4 +27,3 @@
 ## Testing Strategy
 
 > Unit, integration, end-to-end testing approaches and frameworks…
-
