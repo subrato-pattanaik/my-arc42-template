@@ -2,6 +2,8 @@
 
 This documentation follows the [arc42 template](https://arc42.org).
 
+Creating section files makes it easier to maintain the documentation, and allows for better navigation.
+
 ## Sections
 
 - [01 – Introduction and Goals](sections/01-introduction-and-goals.md)
